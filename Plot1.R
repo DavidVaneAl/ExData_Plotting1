@@ -24,4 +24,5 @@ hist(EPC1$Global_active_power,
 dev.copy (png,"plot1.png", bg = NA, width = 480, height = 480)
 dev.off()
 }
+par(bg = "white")
 }
