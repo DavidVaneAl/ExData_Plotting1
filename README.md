@@ -7,7 +7,7 @@
 
 ## __Downloading and reading data___
 
-Downloading the zip file and unzipping in the console. After read txt files with read.table()
+Download the zip file and unzipping in the console. After read txt files with read.table()
 
 Naming the columns (variables) and subsetting date in a specific format ("%d/%m/%Y)
 
@@ -27,7 +27,7 @@ Creating plot2 using with() and plot(), you can modify the values as Main, Color
    
 ## _Plot3_
 
-Creating plot3 using with() and plot(), you can modify the values as Main, Colors, label and others features. Likewise, adding lines using *lines()*  you can modify the values as Colors, lenghts and others features. After, copying to PDF file and close it using dev.off()
+Creating plot3 using with() and plot(), you can modify the values as Main, Colors, label and others features. Likewise, can add lines using *lines()*  you can modify the values as Colors, lenghts and others features. After, copying to PDF file and close it using dev.off()
 
 ## _Plot4_
 
